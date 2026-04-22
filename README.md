@@ -10,7 +10,6 @@
 <br>
 
 - cs + ml @ **princeton '27** · applied ai intern @ **microsoft** · prev **universalagi**, **aws**, **nasa**
-- youngest engineer at a series a backed by eric schmidt, elad gil, jared kushner
 - published ml researcher · best presenter at icaise singapore (first undergrad, 30+ phd's)
 - built systems touching 15,000+ droplets, 99.9% uptime, cuda-optimized training pipelines
 

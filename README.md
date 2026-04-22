@@ -30,8 +30,13 @@ const anish = {
 
 <br>
 
-
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="projects.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="projects.svg" />
+  <img alt="projects" src="projects.svg" width="800" />
+</picture>
 
 [`revive`](https://github.com/anishesg/revive) · [`easyprincetoncourses`](https://github.com/anishesg/easyprincetoncourses) · [`friday`](https://github.com/anishesg) · [`research`](https://github.com/anishesg)
 
@@ -43,8 +48,8 @@ const anish = {
 
 ```
   ┌─────────────────────────────────────────────────────┐
-  │  python · pytorch · typescript · react · go · rust  │
-  │  c++ · aws · docker · kubernetes · cuda · terraform │
+  │  python · pytorch · typescript · react · go · rust   │
+  │  c++ · aws · docker · kubernetes · cuda · terraform  │
   └─────────────────────────────────────────────────────┘
 ```
 

@@ -14,7 +14,6 @@
 
 </div>
 
-<br>
 
 ```js
 // about.js
@@ -81,7 +80,7 @@ const anish = {
 <sub>
 
 ```
-less noise, more signal.
+somewhere between a programmer and an artist
 ```
 
 </sub>

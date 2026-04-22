@@ -26,7 +26,6 @@
     </linearGradient>
   </defs>
 
-  <!-- Row 1 -->
   <!-- Card 1: revive -->
   <rect x="0" y="0" width="388" height="145" rx="10" fill="url(#card1)" stroke="#2d2640" stroke-width="1" />
   <rect x="0" y="0" width="4" height="145" rx="2" fill="url(#purpleAccent)" />
@@ -36,8 +35,8 @@
   <text x="24" y="60" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="14" fill="#e6edf3" font-weight="bold">revive</text>
   <text x="24" y="84" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="11.5" fill="#9ca3af">distributed llm inference via</text>
   <text x="24" y="100" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="11.5" fill="#9ca3af">mixture of agents on ios</text>
-  <rect x="24" y="115" width="82" height="20" rx="10" fill="#2d2640" />
-  <text x="65" y="129" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="10" fill="#A78BFA" text-anchor="middle">hackprinceton ◆</text>
+  <rect x="24" y="113" width="120" height="22" rx="11" fill="#2d2640" />
+  <text x="84" y="128" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="10" fill="#A78BFA" text-anchor="middle">hackprinceton ◆</text>
 
   <!-- Card 2: easyprincetoncourses -->
   <rect x="412" y="0" width="388" height="145" rx="10" fill="url(#card2)" stroke="#1e2d3d" stroke-width="1" />
@@ -48,10 +47,9 @@
   <text x="436" y="60" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="14" fill="#e6edf3" font-weight="bold">easyprincetoncourses</text>
   <text x="436" y="84" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="11.5" fill="#9ca3af">ai-powered semantic course</text>
   <text x="436" y="100" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="11.5" fill="#9ca3af">discovery for princeton students</text>
-  <rect x="436" y="115" width="45" height="20" rx="10" fill="#1e2d3d" />
-  <text x="458" y="129" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="10" fill="#67E8F9" text-anchor="middle">ai · search</text>
+  <rect x="436" y="113" width="85" height="22" rx="11" fill="#1e2d3d" />
+  <text x="478" y="128" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="10" fill="#67E8F9" text-anchor="middle">ai · search</text>
 
-  <!-- Row 2 -->
   <!-- Card 3: friday -->
   <rect x="0" y="170" width="388" height="145" rx="10" fill="url(#card2)" stroke="#2d1e35" stroke-width="1" />
   <rect x="0" y="170" width="4" height="145" rx="2" fill="url(#pinkAccent)" />
@@ -61,8 +59,8 @@
   <text x="24" y="230" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="14" fill="#e6edf3" font-weight="bold">friday</text>
   <text x="24" y="254" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="11.5" fill="#9ca3af">ai personal os for students —</text>
   <text x="24" y="270" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="11.5" fill="#9ca3af">schedule, tasks, life, one agent</text>
-  <rect x="24" y="285" width="60" height="20" rx="10" fill="#2d1e35" />
-  <text x="54" y="299" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="10" fill="#F9A8D4" text-anchor="middle">ai · agents</text>
+  <rect x="24" y="283" width="90" height="22" rx="11" fill="#2d1e35" />
+  <text x="69" y="298" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="10" fill="#F9A8D4" text-anchor="middle">ai · agents</text>
 
   <!-- Card 4: ml disease prediction -->
   <rect x="412" y="170" width="388" height="145" rx="10" fill="url(#card1)" stroke="#2d2b1e" stroke-width="1" />
@@ -73,11 +71,6 @@
   <text x="436" y="230" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="14" fill="#e6edf3" font-weight="bold">ml disease prediction</text>
   <text x="436" y="254" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="11.5" fill="#9ca3af">regionally generalized ncd</text>
   <text x="436" y="270" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="11.5" fill="#9ca3af">prediction — published at icaise</text>
-  <rect x="436" y="285" width="68" height="20" rx="10" fill="#2d2b1e" />
-  <text x="470" y="299" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="10" fill="#FCD34D" text-anchor="middle">published ◆</text>
-
-  <!-- Clickable hints -->
-  <style>
-    @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
-  </style>
+  <rect x="436" y="283" width="100" height="22" rx="11" fill="#2d2b1e" />
+  <text x="486" y="298" font-family="SF Mono, Fira Code, JetBrains Mono, monospace" font-size="10" fill="#FCD34D" text-anchor="middle">published ◆</text>
 </svg>

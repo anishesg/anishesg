@@ -46,13 +46,6 @@ const anish = {
 
 <div align="center">
 
-```
-  ┌─────────────────────────────────────────────────────┐
-  │  python · pytorch · typescript · react · go · rust   │
-  │  c++ · aws · docker · kubernetes · cuda · terraform  │
-  └─────────────────────────────────────────────────────┘
-```
-
 [![skills](https://skillicons.dev/icons?i=python,pytorch,ts,react,go,rust,cpp,aws,docker,kubernetes&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>

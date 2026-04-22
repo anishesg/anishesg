@@ -1,28 +1,57 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=anish+kataria;building+things+that+think)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="header.svg" />
+  <img alt="anish kataria — building things that think" src="header.svg" width="800" />
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishcbk)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ak8686@princeton.edu)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/-%20linkedin-black?style=flat-square&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/anishcbk)&nbsp;
+[![Email](https://img.shields.io/badge/-%20email-black?style=flat-square&logo=gmail&logoColor=A78BFA)](mailto:ak8686@princeton.edu)&nbsp;
+[![GitHub](https://img.shields.io/badge/-%20github-black?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/anishesg)
 
 </div>
 
 <br>
 
-- cs + ml @ **princeton '27** · applied ai intern @ **microsoft** · prev **universalagi**, **aws**, **nasa**
-- published ml researcher · best presenter at icaise singapore (first undergrad, 30+ phd's)
-- built systems touching 15,000+ droplets, 99.9% uptime, cuda-optimized training pipelines
+```js
+// about.js
+
+const anish = {
+    school:     "princeton '27 — cs + machine learning",
+    current:    "applied ai intern @ microsoft — copilot / foundation models",
+    previous:   ["universalagi", "aws", "nasa genelabs"],
+    research:   "best presenter @ icaise singapore — first undergrad, 30+ phd's",
+    built:      "systems across 15,000+ droplets · 99.9% uptime · cuda-optimized pipelines",
+    note:       "youngest engineer at a series a backed by eric schmidt, elad gil, jared kushner"
+};
+```
 
 <br>
 
+```
+ ╭──────────────────────────────────────────────────────────────────────────╮
+ │                                                                          │
+ │   ▸ revive              distributed llm inference via mixture of agents   │
+ │                         on ios — hackprinceton 2026 winner ◆             │
+ │                                                                          │
+ │   ▸ easyprinceton       ai-powered semantic course discovery             │
+ │     courses             for princeton students                           │
+ │                                                                          │
+ │   ▸ friday              ai personal os for students — schedule,          │
+ │                         tasks, life, all in one agent                    │
+ │                                                                          │
+ │   ▸ ml disease          regionally generalized ncd prediction            │
+ │     prediction          framework — published at icaise                  │
+ │                                                                          │
+ ╰──────────────────────────────────────────────────────────────────────────╯
+```
+
 <div align="center">
 
-| | |
-|:--|:--|
-| **[revive](https://github.com/anishesg/revive)** | distributed llm inference via mixture of agents on ios — **hackprinceton 2026 winner** (hardware × ai) |
-| **[easyprincetoncourses](https://github.com/anishesg/easyprincetoncourses)** | ai-powered semantic course discovery for princeton students |
-| **[friday](https://github.com/anishesg)** | ai personal os for students — schedule, tasks, life, all in one agent |
-| **[ml disease prediction](https://github.com/anishesg)** | regionally generalized ncd prediction framework — published at icaise |
+[`revive`](https://github.com/anishesg/revive) · [`easyprincetoncourses`](https://github.com/anishesg/easyprincetoncourses) · [`friday`](https://github.com/anishesg) · [`research`](https://github.com/anishesg)
 
 </div>
 
@@ -30,7 +59,14 @@
 
 <div align="center">
 
-[![skills](https://skillicons.dev/icons?i=python,pytorch,ts,react,go,rust,aws,docker,cpp,kubernetes&theme=dark&perline=10)](https://skillicons.dev)
+```
+  ┌─────────────────────────────────────────────────────┐
+  │  python · pytorch · typescript · react · go · rust   │
+  │  c++ · aws · docker · kubernetes · cuda · terraform  │
+  └─────────────────────────────────────────────────────┘
+```
+
+[![skills](https://skillicons.dev/icons?i=python,pytorch,ts,react,go,rust,cpp,aws,docker,kubernetes&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -39,17 +75,37 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anishesg&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA&include_all_commits=true&hide_title=true&hide_rank=true&ring_color=A78BFA" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anishesg&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=374151&icon_color=7C3AED&include_all_commits=true&hide_title=true&hide_rank=true&ring_color=7C3AED" />
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=anishesg&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA&include_all_commits=true&hide_title=true&hide_rank=true" width="420" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishesg/anishesg/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anishesg/anishesg/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/anishesg/anishesg/output/snake-dark.svg" width="800" />
 </picture>
+
+</div>
 
 <br>
 
-<sub>less noise, more signal.</sub>
+<div align="center">
 
-<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anishesg&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=7d8590&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=anishesg&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=57606a&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+  <img alt="streak" src="https://streak-stats.demolab.com?user=anishesg&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=7d8590&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" width="480" />
+</picture>
 
-![](https://komarev.com/ghpvc/?username=anishesg&color=A78BFA&style=flat-square&label=)
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>
+
+```
+less noise, more signal.
+```
+
+</sub>
+
+![](https://komarev.com/ghpvc/?username=anishesg&color=A78BFA&style=flat-square&label=visitors)
 
 </div>

@@ -24,30 +24,12 @@ const anish = {
     current:    "applied ai intern @ microsoft — copilot / foundation models",
     previous:   ["universalagi", "aws", "nasa genelabs"],
     research:   "best presenter @ icaise singapore — first undergrad, 30+ phd's",
-    built:      "systems across 15,000+ droplets · 99.9% uptime · cuda-optimized pipelines",
-    note:       "youngest engineer at a series a backed by eric schmidt, elad gil, jared kushner"
+    built:      "systems across 15,000+ droplets · 99.9% uptime · cuda-optimized pipelines"
 };
 ```
 
 <br>
 
-```
- ╭──────────────────────────────────────────────────────────────────────────╮
- │                                                                          │
- │   ▸ revive              distributed llm inference via mixture of agents   │
- │                         on ios — hackprinceton 2026 winner ◆             │
- │                                                                          │
- │   ▸ easyprinceton       ai-powered semantic course discovery             │
- │     courses             for princeton students                           │
- │                                                                          │
- │   ▸ friday              ai personal os for students — schedule,          │
- │                         tasks, life, all in one agent                    │
- │                                                                          │
- │   ▸ ml disease          regionally generalized ncd prediction            │
- │     prediction          framework — published at icaise                  │
- │                                                                          │
- ╰──────────────────────────────────────────────────────────────────────────╯
-```
 
 <div align="center">
 
@@ -61,8 +43,8 @@ const anish = {
 
 ```
   ┌─────────────────────────────────────────────────────┐
-  │  python · pytorch · typescript · react · go · rust   │
-  │  c++ · aws · docker · kubernetes · cuda · terraform  │
+  │  python · pytorch · typescript · react · go · rust  │
+  │  c++ · aws · docker · kubernetes · cuda · terraform │
   └─────────────────────────────────────────────────────┘
 ```
 

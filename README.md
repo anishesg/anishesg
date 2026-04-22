@@ -77,14 +77,6 @@ const anish = {
 
 <div align="center">
 
-<sub>
-
-```
-somewhere between a programmer and an artist
-```
-
-</sub>
-
 ![](https://komarev.com/ghpvc/?username=anishesg&color=A78BFA&style=flat-square&label=visitors)
 
 </div>
